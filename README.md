@@ -23,21 +23,10 @@ Hi, I'm **Mahabub Rabby**, a Junior Frontend Developer passionate about building
 
 # 🌐 Featured Projects
 
-## 1. Domain For Sale Landing Page
-
-A premium landing page for showcasing high-value domain names.
-
-### 🔗 Live Demo
-
-https://mahabubrabb-a11y.github.io/domain-for-sale-landing-page/
-
-### 💻 Source Code
-
-https://github.com/mahabubrabb-a11y/domain-for-sale-landing-page
 
 ---
 
-## 2. AI Tools Landing Page
+## 1. AI Tools Landing Page
 
 Modern AI SaaS landing page with responsive UI.
 
@@ -51,7 +40,7 @@ https://github.com/mahabubrabb-a11y/ai-tools-landing-page
 
 ---
 
-## 3. AI Content Generator
+## 2. AI Content Generator
 
 Landing page for an AI content generation platform.
 
@@ -65,7 +54,7 @@ https://github.com/mahabubrabb-a11y/ai-content-generator
 
 ---
 
-## 4. Digital Marketing Agency
+## 3. Digital Marketing Agency
 
 Professional agency landing page.
 
@@ -79,7 +68,7 @@ https://github.com/mahabubrabb-a11y/digital-marketing-agency
 
 ---
 
-## 5. Modern SaaS Landing Page
+## 4. Modern SaaS Landing Page
 
 Modern SaaS website with clean UI.
 
@@ -92,6 +81,19 @@ https://mahabubrabb-a11y.github.io/modern-saas-landing-page/
 https://github.com/mahabubrabb-a11y/modern-saas-landing-page
 
 ---
+
+
+## 5. Domain For Sale Landing Page
+
+A premium landing page for showcasing high-value domain names.
+
+### 🔗 Live Demo
+
+https://mahabubrabb-a11y.github.io/domain-for-sale-landing-page/
+
+### 💻 Source Code
+
+https://github.com/mahabubrabb-a11y/domain-for-sale-landing-page
 
 # 📫 Contact
 
